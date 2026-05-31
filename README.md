@@ -66,12 +66,6 @@ Agricultural Technology Center, Lalitpur
 - Designed engaging posters and promotional content  
 - Managed social media platforms and organized online workshop on GIS and Remote Sensing
 
-*Global Virtual Internship*  
-IIDE  
-- June 2024  
-- Completed training in digital marketing and data-related tasks
-
----
 
 ## 📜 Certifications
 - *QGIS for Land Management* – Centre of Excellence in Land Administration and Management, Karnataka, India (Sept 2025)
@@ -83,13 +77,13 @@ IIDE
 ## 📝 Publications
 
 1. *Economic Perspectives on Walnut Production and Trade in Darchula District of Nepal*  
-   [DOI](https://doi.org/10.9734/ajaar/2025/v25i5622)
+   [link](https://doi.org/10.9734/ajaar/2025/v25i5622)
 
 2. *Evaluation of Rice Landraces for Yield and Related Traits Under Rainfed Conditions in Nepal*  
-   [DOI](https://doi.org/10.59983/s2025030205)
+   [Link](https://doi.org/10.59983/s2025030205)
 
 3. *Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security*  
-   [DOI](https://doi.org/10.1155/aia/8892001)
+   [Link](https://doi.org/10.1155/aia/8892001)
 
 
 
