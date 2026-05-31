@@ -11,7 +11,7 @@
 </p>
 
 
-## 🚀 About Me
+##  About Me
 
 I'm an experienced *Data Analyst and GIS Enthusiast* with expertise in transforming complex datasets into actionable insights through Python and GIS tools. My unique blend of data analytics and agricultural domain knowledge allows me to deliver impactful solutions across diverse projects.
 
