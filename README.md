@@ -50,7 +50,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ## 👨‍💼 Experience
 
 *Volunteer – Work*  
-*Climate Geodesign of Lagos Team* (Global Climate Geodesign Competition)  
+*Climate Geodesign of Lagos Team* (Global Climate Geodesign Competition )  
 - March 2025 – Present  
 - Mapping and Digitization for climate resilience planning in Lagos, Nigeria.
 
