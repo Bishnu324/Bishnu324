@@ -5,16 +5,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=GIS+Analyst+;Data+Analyst+%7C+Machine+Learning+Enthusiast;Agricultural+Data+Analysis" alt="Typing SVG" /><br>
   
-<a href="https://linkedin.com/in/contactbishnupant">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<a href="https://linkedin.com/in/contactbishnupant" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" 
+         alt="LinkedIn Profile">
   </a>
 
   <a href="mailto:pantb813@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" 
+         alt="Email Contact">
   </a>
 
-  <a href="https://github.com/Bishnu324/Bishnu324.github.io/blob/main/Bishnu_Datta%20_Pant_CV.pdf" download>
-    <img src="https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  <a href="https://raw.githubusercontent.com/Bishnu324/Bishnu324.github.io/main/Bishnu_Datta%20_Pant_CV.pdf" 
+     download target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
+         alt="Download CV">
   </a>
 </p>
 
