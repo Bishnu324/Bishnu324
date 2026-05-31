@@ -1,4 +1,4 @@
-# Hi there, I'm Bishnu Datta Pant 👋
+# Hi there, I'm Bishnu Datta Pant 
 
 <img src="https://github.com/Bishnu324/Bishnu324.github.io/blob/main/profile%20.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" align="left">
 
