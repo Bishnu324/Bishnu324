@@ -18,13 +18,6 @@ I'm an experienced *Data Analyst and GIS Enthusiast* with expertise in transform
 When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
 
 
-
-<div align="center">
-## [ Visit to My Portfolio Website](https://github.com/Bishnu324/Bishnu324.io)
-</div>
-
-
-
 ## 🎓 Education
 - *Bachelor’s Degree in Agricultural Science*  
   Institute of Agriculture and Animal Science, Tribhuvan University, Nepal (2019 - 2023)
