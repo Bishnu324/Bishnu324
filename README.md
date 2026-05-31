@@ -7,11 +7,9 @@
   
   <a href="https://linkedin.com/in/contactbishnupant"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:pantb813@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/Bishnu324/Bishnu324.github.io/blob/main/Bishnu_Datta%20_Pant_CV.pdf" download>
-  <img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" 
-       alt="Download CV" 
-       width="50" 
-       height="50">
+  <a href="https://raw.githubusercontent.com/Bishnu324/Bishnu324.github.io/main/Bishnu_Datta%20_Pant_CV.pdf" download>
+  <img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" width="50"><br>
+  Download CV
 </a>
 </p>
 
