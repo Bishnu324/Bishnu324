@@ -10,7 +10,6 @@
   <a href="https://github.com/Bishnu324/Bishnu324.github.io/blob/main/CURRICULUM%20VITAE.pdf" download><img src="https://img.shields.io/badge/Download%20CV-PDF-orange?style=for-the-badge"></a>
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -18,13 +17,13 @@ I'm an experienced *Data Analyst and GIS Enthusiast* with expertise in transform
 
 When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
 
----
+
 
 <div align="center">
 ## [ Visit to My Portfolio Website](https://github.com/Bishnu324/Bishnu324.io)
 </div>
 
----
+
 
 ## 🎓 Education
 - *Bachelor’s Degree in Agricultural Science*  
@@ -33,7 +32,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 - *Intermediate (High School)*  
   National Academy of Science and Technology, Dhangadhi, Nepal (2016 - 2018)
 
----
+
 
 ## 🛠️ Skills
 
@@ -53,7 +52,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 - Time Management
 - Problem Solving
 
----
+
 
 ## 👨‍💼 Experience
 
@@ -86,7 +85,7 @@ IIDE
 - *Data Science using Python* – Evolve IT-Hub, Lalitpur, Nepal (Feb 2025)
 
 
----
+
 
 ## 📝 Publications
 
@@ -99,17 +98,17 @@ IIDE
 3. *Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security*  
    [DOI](https://doi.org/10.1155/aia/8892001)
 
----
+
 
 ## 🌐 Interests
 Agritechnology • GIS & Remote Sensing • Precision Agriculture • Climate Resilience • Machine Learning for Agriculture
 
----
+
 
 ## 🗣️ Languages
 - English, Nepali, Hindi
 
----
+
 
 ## 🔗 Reference
 - *Mr. Santosh Shrestha*  
