@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
 
-  <a href="https://raw.githubusercontent.com/Bishnu324/Bishnu324.github.io/main/Bishnu_Datta%20_Pant_CV.pdf" download>
+  <a href="https://github.com/Bishnu324/Bishnu324.github.io/blob/main/Bishnu_Datta%20_Pant_CV.pdf" download>
     <img src="https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
