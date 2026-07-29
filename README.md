@@ -42,13 +42,13 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ## 🛠️ Skills
 
 *Technical Skills*:
-- <img src="https://img.shields.io/badge/QGIS-Advanced-589636?style=flat" alt="QGIS"> *QGIS* (Advanced)
-- <img src="https://img.shields.io/badge/ArcGIS-Intermediate-589636?style=flat" alt="ArcGIS"> *ArcGIS* & Experience Builder
-- <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python" alt="Python"> *Python*
+- <img src="https://img.shields.io/badge/QGIS-589636?style=flat" alt="QGIS"> *QGIS* (Advanced)
+- <img src="https://img.shields.io/badge/ArcGIS-589636?style=flat" alt="ArcGIS"> *ArcGIS* & Experience Builder
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"> *Python*
 - *LULC Classification using QGIS and Arc GIS*
 - *Georeferencing & Digitization*
 - *Spatial Analysis & Mapping*
-- *Machine Learning* (Numpy,Pandas,scikit-learn, Random Forest,SVM,etc)
+- *Machine Learning* (Numpy, Pandas,scikit-learn, Random Forest,SVM, etc)
 - *Data Cleaning, EDA & Visualization*
 
 *Soft Skills*: 
